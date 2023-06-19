@@ -1,5 +1,6 @@
 # 2023년 스마트빌딩 빅데이터 분석 경진대회(최우수상):1st_place_medal:
 ## IoT를 통해서 수집된 실내 데이터를 바탕으로 실내 재실인원 예측 모델 제작(CatBoost)
+![경진대회 포스터_일정-1](https://github.com/BanApp/SmartBuilding-BigData-Competition/assets/93313445/5692d7cd-fb3f-4de0-96d0-01b2ac8a880d)
 
 ## 최종결과: 최우수상(상장 + 아이패드 우승 상품):fire:
 
