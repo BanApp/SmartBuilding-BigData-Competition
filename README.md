@@ -4,7 +4,7 @@
 
 ## 최종결과: 최우수상(상장 + 아이패드 우승 상품):fire:
 
-![a](https://github.com/BanApp/SmartBuilding-BigData-Competition/assets/93313445/13eb6d3e-4786-44a6-834d-df9f663a434b)
+<!--![a](https://github.com/BanApp/SmartBuilding-BigData-Competition/assets/93313445/13eb6d3e-4786-44a6-834d-df9f663a434b)-->
 
 
 ## ACC Score) 0.792
@@ -38,9 +38,6 @@
   </tr>
   <tr>
       <td align="center">👦🏻 정민준 (EDA, 모델 제작, 발표)</td>
-  </tr>
-  <tr>
-      <td align="center">단국대학교<br/>컴퓨터공학과<br/></td>
   </tr>
 </table>
 <br/><br/>
